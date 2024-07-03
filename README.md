@@ -1,16 +1,11 @@
 # namer_app
 
-A new Flutter project.
+Word generation tool.
+Once the word is generated, it can be favorited with the 'like' button.
+If desired, the 'delete' icon can be pressed to remove it from the favorites list.
+words of the favorites list via the 'delete' icon.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Yunus Emre DEMİRHAN
+## Created on
+July 3, 2024
