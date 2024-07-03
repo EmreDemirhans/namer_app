@@ -3,7 +3,6 @@
 Word generation tool.
 Once the word is generated, it can be favorited with the 'like' button.
 If desired, the 'delete' icon can be pressed to remove it from the favorites list.
-words of the favorites list via the 'delete' icon.
 
 ## Author
 Yunus Emre DEMİRHAN
