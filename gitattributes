@@ -1,0 +1,14 @@
+# Dart dosyalarını Dart dili olarak işaretle
+*.dart linguist-language=Dart
+
+# Swift dosyalarını ignore et
+*.swift linguist-detectable=false
+
+# HTML dosyalarını ignore et
+*.html linguist-detectable=false
+
+# C++ dosyalarını ignore et
+*.c++ linguist-detectable=false
+
+# C Dosyalarını ignore et
+*.c liguist-detectable=false
